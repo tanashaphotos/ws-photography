@@ -246,7 +246,7 @@ export default function Home() {
             </div>
             {/* Descripción de Acerca de */}
             <div className="fade-in text-base md:text-lg text-gray-600 text-center md:text-left">
-              Soy Tania Espino, fotógrafa apasionada por capturar emociones reales.
+              Soy Tania, fotógrafa apasionada por capturar emociones reales.
               Mi enfoque combina creatividad, luz natural y detalles para contar historias.
             </div>
           </div>
